@@ -35,4 +35,4 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 ## Contato
 
 - Luiz Carlos -> luizcarlosgyn2015@yahoo.com.br
-- Link do projeto: https://github.com/LuizCarlos1995/Amigo_Secreto
+- Link do projeto: https://github.com/LuizCarlos1995/Amigo-Secreto
